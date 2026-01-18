@@ -1,6 +1,6 @@
 # Hello, I'm Muhammad Jamiu Abdul-Razak 👋
 
-## Backend Engineer | Software Engineer
+## Software Engineer | Security Researcher
 I’m a Backend Engineer focused on building scalable, reliable systems and solving real-world problems with technology.
 
 I work primarily with Python and backend systems, and over the years I’ve gained hands-on experience across different domains, shaping how I approach system design, performance, and maintainability.
