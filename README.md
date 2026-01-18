@@ -1,18 +1,17 @@
 # Hello, I'm Muhammad Jamiu Abdul-Razak 👋
 
 ## Backend Engineer | Software Engineer
+I’m a Backend Engineer focused on building scalable, reliable systems and solving real-world problems with technology.
 
-I'm a passionate Backend Engineer specialized in developing robust and scalable backend systems. With a strong foundation in mechanical engineering and a deep-seated love for software development, I've transitioned into the tech world, where I continuously strive to solve complex problems and build innovative solutions.
+I work primarily with Python and backend systems, and over the years I’ve gained hands-on experience across different domains, shaping how I approach system design, performance, and maintainability.
 
-### 🌱 What I'm focused on
+I’ve worked as a Backend Engineer at Qudra IO and Eonsfleet Inc, collaborating with cross-functional teams to build impactful products. My experience includes developing APIs, real-time systems, and backend services for features like live session management, chat, feeds, fleet management, fuel automation, geofencing, and maintenance scheduling.
 
-Currently, I'm on the lookout for opportunities to apply my backend development skills, especially within dynamic teams that aim to make significant impacts through technology. I'm all about learning and leveraging the latest technologies to enhance application performance and user experiences.
+Recently, I’ve been exploring blockchain and Web3, building smart contracts with Solidity and diving into smart contract security, which has expanded how I think about trust and security at scale.
 
-### 💼 Where I've worked
+I’m currently the Backend Engineering Lead at Qudra IO, where I combine hands-on engineering with leadership, mentoring engineers, contributing to architecture, and ensuring we build scalable and reliable systems.
 
-- **Software Engineer, Ngobar & Co.** (July 2022 – Feb 2023)
-  - Spearheaded the development of a Django-based backend for a real estate platform, optimizing operational efficiency and cutting costs significantly.
-  - Implemented secure, scalable APIs and databases, ensuring high availability and data integrity for enhanced user trust.
+I’m passionate about continuous learning, collaboration, and building software that makes a real impact. Always open to connecting with fellow engineers and tech enthusiasts.
 
 ### 🛠 Skills
 
@@ -34,12 +33,4 @@ Currently, I'm on the lookout for opportunities to apply my backend development 
 - 📧 muhammadjamiuabdulrazk@gmail.com
 - 🔗 [LinkedIn](www.linkedin.com/in/Razkky)
 
-### 📌 Highlighted Projects
-
-- **Skill Change** - A collaborative platform for skill exchange. Developed a scalable backend RESTful API using Node.js and MongoDB, enabling efficient data storage and rapid user skill matching.
-- **Movie Zone** - A personalized movie recommendation engine. Architected a high-performance Python API to optimize data retrieval, enhancing movie recommendation speeds by 35%.
-
----
-
-I'm always interested in tackling new challenges and making meaningful contributions to projects. Feel free to reach out if you're interested in collaborating or if you have questions about my work!
 
