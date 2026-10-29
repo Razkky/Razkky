@@ -43,6 +43,12 @@ My experience includes:
 
 ![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=Razkky&layout=compact&theme=transparent&hide_border=true)
 
+## 📊 GitHub Activity
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Razkky&theme=github-dark-blue)](https://github.com/Razkky)
+
+![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=Razkky&layout=compact&theme=transparent&hide_border=true)
+
 ## 🎓 Education & Training
 
 - Bachelor of Mechanical Engineering
