@@ -1,36 +1,55 @@
-# Hello, I'm Muhammad Jamiu Abdul-Razak 👋
+# Hi, I'm Muhammad Jamiu Abdul-Razak 👋
 
-## Software Engineer | Security Researcher
-I’m a Backend Engineer focused on building scalable, reliable systems and solving real-world problems with technology.
+### Backend Engineer · Smart Contract Security Researcher
 
-I work primarily with Python and backend systems, and over the years I’ve gained hands-on experience across different domains, shaping how I approach system design, performance, and maintainability.
+I build reliable backend systems and investigate vulnerabilities in smart contracts. My work spans API development, real-time applications, system architecture, and Solidity security reviews.
 
-I’ve worked as a Backend Engineer at Qudra IO and Eonsfleet Inc, collaborating with cross-functional teams to build impactful products. My experience includes developing APIs, real-time systems, and backend services for features like live session management, chat, feeds, fleet management, fuel automation, geofencing, and maintenance scheduling.
+Currently, I’m the **Backend Engineering Lead at Qudra IO**, where I contribute to architecture, mentor engineers, and stay hands-on with development.
 
-Recently, I’ve been exploring blockchain and Web3, building smart contracts with Solidity and diving into smart contract security, which has expanded how I think about trust and security at scale.
+## 💻 Backend Engineering
 
-I’m currently the Backend Engineering Lead at Qudra IO, where I combine hands-on engineering with leadership, mentoring engineers, contributing to architecture, and ensuring we build scalable and reliable systems.
+Across my work at **Qudra IO** and **Eonsfleet Inc**, I’ve contributed to systems supporting:
 
-I’m passionate about continuous learning, collaboration, and building software that makes a real impact. Always open to connecting with fellow engineers and tech enthusiasts.
+- **Real-time communication:** live session management, chat, and feeds.
+- **Fleet operations:** vehicle tracking, geofencing, fuel automation, and maintenance scheduling.
+- **Backend infrastructure:** APIs and services designed for reliability, performance, and maintainability.
+- **Engineering delivery:** architecture decisions, cross-functional collaboration, and mentoring.
 
-### 🛠 Skills
+## 🔐 Smart Contract Security
 
-- **Languages**: Python (Django, Flask), JavaScript (Node.js, Express.js), TypeScript
-- **Databases**: SQL (MySQL, PostgreSQL), NoSQL (MongoDB, Redis)
-- **DevOps**: Docker, Kubernetes, AWS, Linux (Ubuntu), Shell Scripting
-- **Tools**: Git/GitHub, Jira
+I review Solidity smart contracts to identify vulnerabilities, examine protocol assumptions, and assess how systems behave under adversarial conditions.
 
-### 📚 Education
+My experience includes:
+
+- Participating in competitive audits and private security reviews.
+- Receiving accepted and paid findings in audit contests.
+- Identifying vulnerabilities across critical, high, and medium severity levels.
+- Developing Solidity smart contracts and examining their security properties.
+
+## 🛠️ Technical Stack
+
+| Area | Technologies |
+| --- | --- |
+| Languages | Python, JavaScript, TypeScript, Solidity |
+| Backend | Django, Flask, Node.js, Express.js |
+| Databases & Caching | PostgreSQL, MySQL, MongoDB, Redis |
+| Infrastructure | Docker, Kubernetes, AWS, Linux, Shell Scripting |
+| Collaboration | Git, GitHub, Jira |
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=transparent&include_all_commits=true&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=transparent&hide_border=true)
+
+## 🎓 Education & Training
 
 - Bachelor of Mechanical Engineering
+- Software Engineering — ALX–Holberton
 
-### 🏆 Certifications
+## 🤝 Connect
 
-- Software Engineering from Alx-Holberton
+Open to conversations about backend engineering, smart contract security, and opportunities to build secure, reliable products.
 
-### 📫 How to reach me
-
-- 📧 muhammadjamiuabdulrazk@gmail.com
-- 🔗 [LinkedIn](www.linkedin.com/in/Razkky)
-
-
+- **Email:** [abdulrazakabu667@gmail.com](mailto:abdulrazakabu667@gmail.com)
+- **LinkedIn:** [Muhammad Jamiu Abdul-Razak](https://www.linkedin.com/in/Razkky/)
