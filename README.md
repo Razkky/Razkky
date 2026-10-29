@@ -36,11 +36,12 @@ My experience includes:
 | Infrastructure | Docker, Kubernetes, AWS, Linux, Shell Scripting |
 | Collaboration | Git, GitHub, Jira |
 
+
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Razkky&show_icons=true&theme=transparent&include_all_commits=true&hide_border=true)
+![GitHub Stats](https://github-stats-extended.vercel.app/api?username=Razkky&show_icons=true&theme=transparent&include_all_commits=true&hide_border=true&show=contributions)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Razkky&layout=compact&theme=transparent&hide_border=true)
+![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=Razkky&layout=compact&theme=transparent&hide_border=true)
 
 ## 🎓 Education & Training
 
